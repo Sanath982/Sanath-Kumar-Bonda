@@ -1,0 +1,80 @@
+body{
+    width:800px;
+    margin-left: 275px;
+}
+
+#header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background-color: rgb(19, 4, 99);
+    color: white;
+}
+
+#image{
+    height:150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+
+#space1{
+    letter-spacing: 0.3cm;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+#space2{
+    letter-spacing: 0.2cm;
+    margin-top: 20px;;
+    margin-left: 20px;
+}
+
+#line{
+    width:500px;
+    height:5px;
+    background-color:white;
+}
+
+#line1{
+    width:90%;
+    height:5px;
+    background-color:white;
+}
+
+#line2{
+    width:90%;
+    height:5px;
+    background-color:black;
+}
+
+table{
+    width:100%;
+    height:800px;
+}
+
+h1{
+    font-size: 25px;
+}
+
+#personal{
+    background-color: rgb(19, 4, 99);
+    width:25%;
+    padding: 10px;
+    color: white;
+}
+
+#professional{
+    background-color: whitesmoke;
+    width:70%;
+}
+
+#modified{
+    color:blue;
+}
+
+#sige{
+    color: goldenrod;
+}
